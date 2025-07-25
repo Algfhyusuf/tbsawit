@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Analisis TBS Kelapa Sawit",
+  "description": "Aplikasi chatbot yang didukung oleh Gemini untuk menganalisis kualitas Tandan Buah Segar (TBS) kelapa sawit, potensi pembusukan, dan tingkat kematangan panen dari gambar yang diunggah pengguna.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
